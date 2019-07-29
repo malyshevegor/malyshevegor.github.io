@@ -1,0 +1,24 @@
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Auto.Form1.resources
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Auto.Form2.resources
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Auto.Form3.resources
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Auto.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+C:\Users\admin\Desktop\AutoStore\AutoStore\obj\Debug\Auto.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\AutoStore\AutoStore\obj\Debug\Auto.Form1.resources
+C:\Users\admin\Desktop\AutoStore\AutoStore\obj\Debug\Auto.Form2.resources
+C:\Users\admin\Desktop\AutoStore\AutoStore\obj\Debug\Auto.Form3.resources
+C:\Users\admin\Desktop\AutoStore\AutoStore\obj\Debug\Auto.Kat.resources
+C:\Users\admin\Desktop\AutoStore\AutoStore\obj\Debug\Auto.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\AutoStore\AutoStore\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AutoStore\AutoStore\bin\Debug\AutoStore.exe.config
+C:\Users\admin\Desktop\AutoStore\AutoStore\bin\Debug\AutoStore.exe
+C:\Users\admin\Desktop\AutoStore\AutoStore\bin\Debug\AutoStore.pdb
+C:\Users\admin\Desktop\AutoStore\AutoStore\obj\Debug\AutoStore.Properties.Resources.resources
+C:\Users\admin\Desktop\AutoStore\AutoStore\obj\Debug\AutoStore.exe
+C:\Users\admin\Desktop\AutoStore\AutoStore\obj\Debug\AutoStore.pdb

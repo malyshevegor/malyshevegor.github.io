@@ -1,0 +1,36 @@
+C:\Users\Ivan\source\repos\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+C:\Users\Ivan\source\repos\Coffee Shop\bin\Debug\Coffee Shop.exe
+C:\Users\Ivan\source\repos\Coffee Shop\bin\Debug\Coffee Shop.pdb
+C:\Users\Ivan\source\repos\Coffee Shop\obj\Debug\Coffee Shop.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Coffee Shop\obj\Debug\Coffee_Shop.Form1.resources
+C:\Users\Ivan\source\repos\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Coffee Shop\obj\Debug\Coffee Shop.exe
+C:\Users\Ivan\source\repos\Coffee Shop\obj\Debug\Coffee Shop.pdb
+C:\Users\Ivan\source\repos\Coffee Shop\obj\Debug\Coffee_Shop.Form2.resources
+C:\Users\Ivan\source\repos\Coffee Shop\obj\Debug\Coffee_Shop.Form3.resources
+C:\Users\Ivan\Desktop\Курсовая Работа\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+C:\Users\Ivan\Desktop\Курсовая Работа\Coffee Shop\bin\Debug\Coffee Shop.exe
+C:\Users\Ivan\Desktop\Курсовая Работа\Coffee Shop\bin\Debug\Coffee Shop.pdb
+C:\Users\Ivan\Desktop\Курсовая Работа\Coffee Shop\obj\Debug\Coffee Shop.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Курсовая Работа\Coffee Shop\obj\Debug\Coffee_Shop.Form1.resources
+C:\Users\Ivan\Desktop\Курсовая Работа\Coffee Shop\obj\Debug\Coffee_Shop.Form2.resources
+C:\Users\Ivan\Desktop\Курсовая Работа\Coffee Shop\obj\Debug\Coffee_Shop.Form3.resources
+C:\Users\Ivan\Desktop\Курсовая Работа\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Курсовая Работа\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Курсовая Работа\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Курсовая Работа\Coffee Shop\obj\Debug\Coffee Shop.exe
+C:\Users\Ivan\Desktop\Курсовая Работа\Coffee Shop\obj\Debug\Coffee Shop.pdb
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Auto.Form1.resources
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Auto.Form2.resources
+C:\Users\admin\Desktop\Coffee Shop\Coffee Shop\obj\Debug\Auto.Form3.resources
