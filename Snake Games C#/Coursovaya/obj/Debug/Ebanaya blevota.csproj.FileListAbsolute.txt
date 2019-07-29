@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\bin\Debug\Ebanaya blevota.exe.config
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\bin\Debug\Ebanaya blevota.exe
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\bin\Debug\Ebanaya blevota.pdb
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya blevota.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya_blevota.Forma.resources
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya_blevota.Properties.Resources.resources
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya blevota.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya blevota.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya blevota.exe
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya blevota.pdb
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya_blevota.Form1.resources
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya_blevota.Founder.resources
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya_blevota.Rules.resources
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya_blevota.Table.resources

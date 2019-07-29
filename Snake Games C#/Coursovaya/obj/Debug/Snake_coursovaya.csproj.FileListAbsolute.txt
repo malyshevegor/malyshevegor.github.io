@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Snake_coursovaya.Form1.resources
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Snake_coursovaya.Forma.resources
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya_blevota.Founder.resources
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya_blevota.Properties.Resources.resources
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Snake_coursovaya.Rules.resources
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Snake_coursovaya.Table.resources
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Snake_coursovaya.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Snake_coursovaya.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya blevota.exe
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Ebanaya blevota.pdb
+C:\Users\admin\source\repos\Ebanaya blevota\Ebanaya blevota\obj\Debug\Snake_coursovaya.csprojAssemblyReference.cache

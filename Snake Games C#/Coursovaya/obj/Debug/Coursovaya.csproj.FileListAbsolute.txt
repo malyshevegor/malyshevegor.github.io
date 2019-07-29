@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\obj\Debug\Coursovaya.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\obj\Debug\Coursovaya.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\obj\Debug\Coursovaya.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\obj\Debug\Coursovaya.Form1.resources
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\obj\Debug\Coursovaya.Forma.resources
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\obj\Debug\Coursovaya.Founder.resources
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\obj\Debug\Coursovaya.Rules.resources
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\obj\Debug\Coursovaya.Table.resources
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\bin\Debug\Coursovaya.exe.config
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\bin\Debug\Coursovaya.exe
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\bin\Debug\Coursovaya.pdb
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\obj\Debug\Coursovaya.Properties.Resources.resources
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\obj\Debug\Coursovaya.exe
+C:\Users\admin\source\repos\Coursovaya\Coursovaya\obj\Debug\Coursovaya.pdb
