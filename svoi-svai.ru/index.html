@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>СвоиСваи.ру</title>
     <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="js/main.js"/>
+    <link rel="stylesheet" href="js/main.js" />
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
@@ -17,6 +17,8 @@
     <!-- Fotorama from CDNJS, 19 KB -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+    <link rel="stylesheet" href="slick/slick.css">
+    <link rel="stylesheet" href="slick/slick-theme.css">
 </head>
 
 <body>
@@ -197,7 +199,7 @@
                 </div>
             </div>
         </div>
-</section>
+    </section>
 
     <section class="main__form">
         <div class="container">
@@ -338,38 +340,38 @@
                     <p>Для фундаментов, опор, <br>заборов, лестниц, банных <br> печей, легких беседок и др. </p>
                     <h3>Цена 1300р</h3>
                 </div>
-            
-            
+
+
                 <div class="svai-blocks">
                     <img src="img/svai.png" alt="">
                     <h3>Винтовая свая<br>СВС-75-2500</h3>
                     <p>Для фундаментов, опор, <br>заборов, лестниц, банных <br> печей, легких беседок и др. </p>
                     <h3>Цена 1300р</h3>
                 </div>
-            
-            
+
+
                 <div class="svai-blocks">
                     <img src="img/svai.png" alt="">
                     <h3>Винтовая свая<br>СВС-75-2500</h3>
                     <p>Для фундаментов, опор, <br>заборов, лестниц, банных <br> печей, легких беседок и др. </p>
                     <h3>Цена 1300р</h3>
                 </div>
-    
+
                 <div class="svai-blocks">
                     <img src="img/svai.png" alt="">
                     <h3>Винтовая свая<br>СВС-75-2500</h3>
                     <p>Для фундаментов, опор, <br>заборов, лестниц, банных <br> печей, легких беседок и др. </p>
                     <h3>Цена 1300р</h3>
                 </div>
-            
+
                 <div class="svai-blocks">
                     <img src="img/svai.png" alt="">
                     <h3>Винтовая свая<br>СВС-75-2500</h3>
                     <p>Для фундаментов, опор, <br>заборов, лестниц, банных <br> печей, легких беседок и др. </p>
                     <h3>Цена 1300р</h3>
                 </div>
-            
-            
+
+
                 <div class="svai-blocks">
                     <img src="img/svai.png" alt="">
                     <h3>Винтовая свая<br>СВС-75-2500</h3>
@@ -385,13 +387,13 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 inventory_before_after">
-            <h2>Наши работы</h2>
-            <div class="fotorama col-xl-12" data-height="450" data-autoplay="3000" data-fit="cover" data-nav="thumbs"
-                data-loop="true" data-transition="crossfade" data-allowfullscreen="true">
-                <img src=" https://s.fotorama.io/1.jpg"> 
-                <img src="https://s.fotorama.io/2.jpg">
-                <img src="img/num1.jpg">
-            </div>
+                    <h2>Наши работы</h2>
+                    <div class="fotorama col-xl-12" data-height="450" data-autoplay="3000" data-fit="cover"
+                        data-nav="thumbs" data-loop="true" data-transition="crossfade" data-allowfullscreen="true">
+                        <img src=" https://s.fotorama.io/1.jpg">
+                        <img src="https://s.fotorama.io/2.jpg">
+                        <img src="img/num1.jpg">
+                    </div>
                 </div>
             </div>
         </div>
@@ -433,7 +435,7 @@
         </div>
     </section>
 
- 
+
 
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
         integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
@@ -444,42 +446,43 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
     </script>
-    
-        <!-- подключаем стили слик слайдер -->
-        <link rel="stylesheet" href="slick/slick.css">
-        <link rel="stylesheet" href="slick/slick-theme.css">
-         <!-- подключаем саму библиотеку слайдера -->
-         <script src="slick/slick.min.js"></script>
 
-         <script>$('.svai_slider').slick({
+    <!-- подключаем стили слик слайдер -->
+
+    <!-- подключаем саму библиотеку слайдера -->
+    <script src="slick/slick.min.js"></script>
+
+    <script>
+        $('.svai_slider').slick({
             centerMode: true,
             centerPadding: '20px',
             slidesToShow: 3,
             //autoplay: true,
-            responsive: [
-              {
-                breakpoint: 991,
-                settings: {
-                  arrows: false,
-                  centerMode: true,
-                  centerPadding: '20px',
-                  //autoplay: true,
-                  slidesToShow: 2,
-                  slidesToScroll:2
+            responsive: [{
+                    breakpoint: 991,
+                    settings: {
+                        arrows: false,
+                        centerMode: true,
+                        centerPadding: '20px',
+                        //autoplay: true,
+                        slidesToShow: 2,
+                        slidesToScroll: 2
+                    }
+                },
+                {
+                    breakpoint: 767,
+                    settings: {
+                        arrows: false,
+                        centerMode: true,
+                        centerPadding: '20px',
+                        //autoplay: true,
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
                 }
-              },
-              {
-                breakpoint: 767,
-                settings: {
-                  arrows: false,
-                  centerMode: true,
-                  centerPadding: '20px',
-                  //autoplay: true,
-                  slidesToShow: 1,
-                  slidesToScroll:1
-                }
-              }
             ]
-          });</script>
+        });
+    </script>
 </body>
+
 </html>
