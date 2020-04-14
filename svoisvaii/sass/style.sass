@@ -1,0 +1,84 @@
+//базовые настройки сетки
+@import 'grid'
+
+// Шапка сайта
+@import 'blocks/navbar'
+
+// первый блок сайта
+@import 'blocks/header'
+// второй блок сайта
+@import 'blocks/features'
+// Каталог-блок сайта
+@import 'blocks/catalog'
+// форма сайта
+@import 'blocks/forma'
+// галерея работ сайта
+@import 'blocks/photo'
+// каталог свай сайта
+@import 'blocks/catalog_svai'
+
+// каталог свай сайта
+@import 'blocks/info'
+
+
+// форма сайта
+@import 'blocks/footer'
+
+//Шрифт 
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,800&display=swap")
+
+*,
+*:before,
+*:after 
+    box-sizing: border-box
+    outline: none !important
+
+
+html
+    scroll-behavior: smooth
+
+body
+    font-family: "Montserrat", sans-serif;
+    color: #5a5b5f
+
+a
+    font-size: 18px
+    color: #ffffff
+    transition: 0.4s linear
+    text-decoration: none
+
+a:hover 
+    text-decoration: none
+    transform: scale(1.05)
+    cursor: pointer
+    transition: 0.5s
+
+
+.button-o
+    color: #fff
+    border-radius: 35px
+    background-color: transparent
+    font-weight: 500
+    padding: 0.5rem 2rem
+    border: 2px solid #fff
+
+.button-o:hover 
+    transform: scale(1.05)
+    cursor: pointer
+    background-color: transparent
+    transition: 0.5s
+
+
+.button
+    color: #fff
+    border-radius: 35px
+    background-color: #3366ff
+    font-weight: 500
+    padding: 0.5rem 2rem
+    border: 2px solid #3366ff
+
+.button:hover 
+    transform: scale(1.05)
+    cursor: pointer
+    background-color: #3366ff
+    transition: 0.5s
