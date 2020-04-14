@@ -1,0 +1,25 @@
+.photo
+    background: url(../img/fon2.png) no-repeat center
+    background-size: cover
+
+    .section-title
+        text-align: center
+        padding-top: 4rem 
+        margin-bottom: 3rem
+        font-size: 1.8rem
+        font-weight: 500
+
+    &-block
+        display: flex
+        justify-content: space-between
+        flex-wrap: wrap
+
+        .fotorama
+            flex-basis: 100%
+            margin-bottom: 4rem
+
+@media(max-width: 991px)
+    .photo
+        &-block
+            .fotorama
+                margin-left: 0rem

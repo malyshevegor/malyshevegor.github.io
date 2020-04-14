@@ -1,0 +1,199 @@
+.navbar
+    position: relative
+    z-index: 4
+    &-wrap
+        display: flex
+        align-items: center
+        justify-content: space-between
+        min-height: 5rem
+        color: #fff
+
+        &__left
+            display: flex
+            align-items: center
+
+
+        &__right
+            display: flex
+            align-items: center
+
+    &__button
+        margin-left: 3rem
+    &__logo
+        margin-top: 3px
+    &-menu-buttom
+        margin-right: 1rem
+
+    
+
+.mobile__phone
+    display: block
+    font-weight: 600
+
+.mobile
+    display: block
+    font-size: 13px
+
+.mail
+    display: block
+    font-size: 13px
+    margin-left: 3rem
+
+
+.back-navbar
+    position: absolute
+    background: #3366ff
+    border-radius: 0 0 0 7rem
+    width: 60%
+    height: 5rem
+    right: 0
+
+
+.menu
+    top: 5rem
+    position: absolute
+    width: 100%
+    background-color: transparent
+    z-index: 0
+    transform: translateY(-200%)
+    opacity: 0
+    &-button
+        display: flex
+        flex-direction: column
+        align-items: center
+        justify-content: center
+        background-color: transparent
+        border: none
+        height: 5rem
+        width: 4rem
+        margin-right: 1rem
+        &:focus
+            outline: none
+        &:hover
+            cursor: pointer
+            transform: scale(1.05)
+            transition: 0.5s
+        &__line
+            display: block
+            width: 23px
+            height: 2px
+            background-color: #fff
+            margin: 3px
+    &_active
+        transform: translateY(0)
+        opacity: 1
+        transition: 1s;
+        
+        
+    &-nav
+        padding: 1rem 0
+        display: flex
+        align-items: center
+        justify-content: flex-end
+    &__link
+        color: #fff
+        margin-left: 5rem
+
+.overlay 
+    position: absolute
+    width: 100%
+    height: 100vh
+    top: 0
+    left: 0
+    background-color: rgba(0, 0, 0, .8)
+    display: none
+
+
+.popup 
+    position: absolute
+    display: flex
+    align-items: center
+    justify-content: center
+    width: 80%
+    //left: 50%
+    //top: 50%
+    //transform: translate(-50%, -50%)
+   
+    box-sizing: border-box
+    color: #5a5b5f
+    
+
+
+.close-popup 
+    position: absolute
+    top: 15px
+    right: 15px
+    width: 23px
+    height: 23px
+    cursor: pointer
+
+
+.close-popup:before 
+    content: ''
+    background-color: #fff
+    position: absolute
+    height: 1px
+    width: 31px
+    top: 11px
+    left: -4px
+    transform: rotate(-45deg)
+
+
+.close-popup:after 
+    content: ''
+    background-color: #fff
+    position: absolute
+    height: 1px
+    width: 31px
+    top: 11px
+    transform: rotate(45deg)
+    left: -4px
+
+
+@media(max-width: 1199px)
+    .back-navbar
+        width: 70%
+@media(max-width: 991px)
+    .navbar__button
+        display: none
+    .back-navbar
+        width: 100%
+        border-radius: 0 0 0 2rem
+
+@media(max-width: 576px)
+    .mail
+        display: none
+    .mobile
+        display: none
+
+    .back-navbar
+        width: 100%
+        border-radius: 0 0 0 2rem
+    .menu
+        transform: translateY(0)
+        border-radius: 2rem 0 0 2rem
+        background-color: #3366ff
+
+        &-nav
+            padding: 0rem 0
+            display: flex
+            justify-content: center
+            flex-direction: column
+        &__link
+            display: block
+            margin-top: 1.5rem
+            margin-bottom: 2rem
+            margin-right: 5rem
+            font-size: 13px
+
+    &_active
+        transform: translateY(250%)
+        opacity: 1
+        &-nav
+            display: flex
+            flex-direction: column
+            
+        &__link
+            margin-bottom: 2rem
+            //margin-top: 5rem
+            color: #3366ff
