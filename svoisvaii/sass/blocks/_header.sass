@@ -1,0 +1,66 @@
+.header
+    height: 100vh
+    background: url(../img/main_fon.jpg) no-repeat center;
+    background-size: cover
+
+    .hero
+        color: #fff
+        margin-top: 11rem
+        
+
+        &-title
+            margin-bottom: 2rem
+            &__line
+                color: #3366ff
+                
+        
+        &-subtitle
+            display: block
+            margin-bottom: 2rem
+
+        &-button
+            display: block
+            &__item
+                padding: 1rem 3rem
+                margin-right: 2rem
+                margin-bottom: 1rem
+
+.header::after 
+    content: ""
+    display: block
+    position: absolute
+    width: 100%
+    height: 120px
+    z-index: 6
+    background: linear-gradient(transparent, #eaeaea)
+    left: 0
+    bottom: 0
+
+
+@media(max-width: 576px)
+    .header
+        height: 100%
+    .header::after 
+        display: none
+        .hero
+            &-title
+                font-size: 25px
+                margin-top: -5rem
+            &-subtitle
+                font-size: 15px
+
+@media(max-width: 370px)
+    .header
+        height: 100%
+        .hero
+            padding-bottom: 1rem
+            &-title
+                margin-top: -5rem
+                font-size: 25px
+            &-subtitle
+                font-size: 15px
+            &-button
+                font-size: 15px
+
+    .header::after 
+        display: none
